@@ -15,7 +15,7 @@ function Hero() {
           deviennent mémorables. Bienvenue dans le futur, bienvenue chez VIRTEX.
         </p>
         <a
-          href="#"
+          href="www.google.com"
           className="py-3 px-5 bg-[#CE7AF6] rounded-full leading-none font-semibold text-[000034]"
         >
           Commencer

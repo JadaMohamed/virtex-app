@@ -3,7 +3,7 @@ import logo from "../visuals/virtex-logo.svg";
 
 function Hero() {
   return (
-    <div className="hero justify-center flex">
+    <div className="hero justify-center min-h-[780px] flex">
       <div className="md:py-24 py-14 md:px-20 px-3 h-full w-full pt-[160px] max-w-7xl m-a ">
         <img className="h-6 mb-20" src={logo} alt="Virtex" />
         <h1 className="text-[#EEF5FF] text-6xl font-bold">
